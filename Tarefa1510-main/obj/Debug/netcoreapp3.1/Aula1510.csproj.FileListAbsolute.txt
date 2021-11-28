@@ -1,0 +1,14 @@
+C:\Users\joaog\OneDrive\Documentos\prca\Aula 1510.2\Aula1510\Aula1510\bin\Debug\netcoreapp3.1\Aula1510.exe
+C:\Users\joaog\OneDrive\Documentos\prca\Aula 1510.2\Aula1510\Aula1510\bin\Debug\netcoreapp3.1\Aula1510.deps.json
+C:\Users\joaog\OneDrive\Documentos\prca\Aula 1510.2\Aula1510\Aula1510\bin\Debug\netcoreapp3.1\Aula1510.runtimeconfig.json
+C:\Users\joaog\OneDrive\Documentos\prca\Aula 1510.2\Aula1510\Aula1510\bin\Debug\netcoreapp3.1\Aula1510.runtimeconfig.dev.json
+C:\Users\joaog\OneDrive\Documentos\prca\Aula 1510.2\Aula1510\Aula1510\bin\Debug\netcoreapp3.1\Aula1510.dll
+C:\Users\joaog\OneDrive\Documentos\prca\Aula 1510.2\Aula1510\Aula1510\bin\Debug\netcoreapp3.1\Aula1510.pdb
+C:\Users\joaog\OneDrive\Documentos\prca\Aula 1510.2\Aula1510\Aula1510\obj\Debug\netcoreapp3.1\Aula1510.csproj.AssemblyReference.cache
+C:\Users\joaog\OneDrive\Documentos\prca\Aula 1510.2\Aula1510\Aula1510\obj\Debug\netcoreapp3.1\Aula1510.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaog\OneDrive\Documentos\prca\Aula 1510.2\Aula1510\Aula1510\obj\Debug\netcoreapp3.1\Aula1510.AssemblyInfoInputs.cache
+C:\Users\joaog\OneDrive\Documentos\prca\Aula 1510.2\Aula1510\Aula1510\obj\Debug\netcoreapp3.1\Aula1510.AssemblyInfo.cs
+C:\Users\joaog\OneDrive\Documentos\prca\Aula 1510.2\Aula1510\Aula1510\obj\Debug\netcoreapp3.1\Aula1510.csproj.CoreCompileInputs.cache
+C:\Users\joaog\OneDrive\Documentos\prca\Aula 1510.2\Aula1510\Aula1510\obj\Debug\netcoreapp3.1\Aula1510.dll
+C:\Users\joaog\OneDrive\Documentos\prca\Aula 1510.2\Aula1510\Aula1510\obj\Debug\netcoreapp3.1\Aula1510.pdb
+C:\Users\joaog\OneDrive\Documentos\prca\Aula 1510.2\Aula1510\Aula1510\obj\Debug\netcoreapp3.1\Aula1510.genruntimeconfig.cache
